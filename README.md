@@ -28,7 +28,8 @@ Functional testing
 Regression testing
 Cross-browser testing
 Responsive design testing
-Testing Scope
+
+## Testing Scope
 The primary scope of this project includes the following modules of the OpenCart platform:
 
 User Management: Registration, login, password recovery, user roles.
