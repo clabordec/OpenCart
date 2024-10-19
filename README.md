@@ -29,6 +29,8 @@ Regression testing
 Cross-browser testing
 Responsive design testing
 
+<br>
+
 ## Testing Scope
 The primary scope of this project includes the following modules of the OpenCart platform:
 
