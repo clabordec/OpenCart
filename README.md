@@ -41,7 +41,12 @@ Admin Panel: Managing store settings, user permissions, product categories, sale
 Shipping and Tax Settings: Testing different shipping methods and tax rules.
 Promotions and Discounts: Coupon codes, special offers, and discount rule management.
 Reports: Sales, product views, and customer activity reports.
-Tools Used
+
+
+<br>
+
+
+## Tools Used
 We use the following tools to facilitate our manual testing process:
 
 TestRail: For test case management and tracking. All test cases, test plans, and results are documented in TestRail.
