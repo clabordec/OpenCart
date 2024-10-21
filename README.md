@@ -51,7 +51,12 @@ We use the following tools to facilitate our manual testing process:
 
 TestRail: For test case management and tracking. All test cases, test plans, and results are documented in TestRail.
 JIRA: For issue tracking and defect management. Bugs and feature requests are logged and tracked using JIRA.
-Test Plan
+
+
+<br>
+
+
+## Test Plan
 The testing strategy for this project follows a structured approach to ensure complete coverage of all critical functionalities of the OpenCart platform.
 
 Test Case Creation
