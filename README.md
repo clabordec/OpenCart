@@ -71,7 +71,12 @@ Test Objective
 Preconditions
 Steps to Execute
 Expected Result
-Test Types
+
+
+<br>
+
+
+## Test Types
 The following types of testing will be performed:
 
 Functional Testing: Verifying that each feature works according to the requirements.
