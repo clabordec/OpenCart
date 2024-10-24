@@ -108,6 +108,9 @@ Failures and blocked test cases
 Coverage status
 
 
+<br>
+
+
 ## Defect Management
 
 ### Reporting Bugs
@@ -125,6 +128,9 @@ Attachments: Screenshots, videos, logs if necessary.
 Once a bug is logged in JIRA, it is assigned to the relevant developer.
 The bug's status is updated throughout its lifecycle (e.g., Open, In Progress, Resolved, Closed).
 All resolved bugs are verified during regression testing before being marked as Closed.
+
+
+<br>
 
 
 ## Contributing
