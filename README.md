@@ -89,7 +89,7 @@ Responsive Testing: Testing across different screen sizes and devices.
 
 
 ## Test Execution
-Running Test Cases
+### Running Test Cases
 Navigate to the TestRail project for OpenCart.
 Select the relevant Test Plan or Test Suite.
 Execute the test cases by following the steps outlined in each test case.
