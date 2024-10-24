@@ -98,15 +98,19 @@ Pass: The functionality behaves as expected.
 Fail: The functionality does not behave as expected.
 Blocked: Testing cannot proceed due to an external dependency.
 Skipped: Test case is not applicable for this cycle.
-Test Reports
+
+### Test Reports
 Upon completion of each testing cycle, a report is generated in TestRail summarizing:
 
 Total test cases executed
 Pass percentage
 Failures and blocked test cases
 Coverage status
-Defect Management
-Reporting Bugs
+
+
+## Defect Management
+
+### Reporting Bugs
 Defects identified during testing are logged in JIRA with the following details:
 
 Issue Type: Bug
@@ -116,11 +120,14 @@ Steps to Reproduce: Detailed steps to recreate the issue.
 Expected Result: What should happen.
 Actual Result: What actually happened.
 Attachments: Screenshots, videos, logs if necessary.
-Issue Tracking
+
+### Issue Tracking
 Once a bug is logged in JIRA, it is assigned to the relevant developer.
 The bug's status is updated throughout its lifecycle (e.g., Open, In Progress, Resolved, Closed).
 All resolved bugs are verified during regression testing before being marked as Closed.
-Contributing
+
+
+## Contributing
 We welcome contributions from the community to improve our testing efforts! If you'd like to contribute:
 
 Fork the repository.
@@ -130,7 +137,8 @@ Log any bugs found in JIRA.
 Submit a pull request with a detailed description of the changes.
 Please ensure that all contributions align with our testing standards and guidelines.
 
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 If you have any questions or need further information, feel free to reach out. Happy testing!
