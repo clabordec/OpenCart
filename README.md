@@ -62,7 +62,7 @@ The testing strategy for this project follows a structured approach to ensure co
 <br>
 
 
-### Test Case Creation
+## Test Case Creation
 Test cases are written and managed in TestRail.
 Test cases cover all modules mentioned in the testing scope.
 Each test case includes:
@@ -83,6 +83,11 @@ Functional Testing: Verifying that each feature works according to the requireme
 Regression Testing: Ensuring that existing functionalities work after code changes.
 Cross-Browser Testing: Testing across multiple browsers (e.g., Chrome, Firefox, Safari).
 Responsive Testing: Testing across different screen sizes and devices.
+
+
+<br>
+
+
 ## Test Execution
 Running Test Cases
 Navigate to the TestRail project for OpenCart.
