@@ -1,6 +1,6 @@
 # OpenCart
 
-Welcome to the <b>OpenCart Manual Testing</b> repository. This project focuses on the manual testing efforts for the OpenCart e-commerce platform using tools such as TestRail for test case management and JIRA for issue tracking. The objective is to ensure the stability, functionality, and usability of the OpenCart platform through well-documented test plans, detailed test cases, and organized bug reporting.
+Welcome to the <b>OpenCart Manual Testing</b> repository. This project focuses on the manual testing efforts for the OpenCart e-commerce platform using tools such as <b>TestRail</b> for test case management and <b>JIRA</b> for issue tracking. The objective is to ensure the stability, functionality, and usability of the OpenCart platform through well-documented test plans, detailed test cases, and organized bug reporting.
 
 <br>
 
@@ -19,15 +19,15 @@ Welcome to the <b>OpenCart Manual Testing</b> repository. This project focuses o
 
 
 ## Project Overview
-OpenCart is a popular open-source e-commerce platform that allows users to create and manage online stores. The goal of this project is to perform comprehensive Manual Testing to ensure that the platform's functionalities meet the required specifications, are bug-free, and provide a smooth user experience.
+<b>OpenCart</b> is a popular open-source e-commerce platform that allows users to create and manage online stores. The goal of this project is to perform comprehensive Manual Testing to ensure that the platform's functionalities meet the required specifications, are bug-free, and provide a smooth user experience.
 
 This project focuses on testing different aspects of the OpenCart platform, including but not limited to:
 
-User interface (UI) testing
-Functional testing
-Regression testing
-Cross-browser testing
-Responsive design testing
+- User interface (UI) testing
+- Functional testing
+- Regression testing
+- Cross-browser testing
+- Responsive design testing
 
 <br>
 
