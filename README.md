@@ -34,13 +34,13 @@ This project focuses on testing different aspects of the OpenCart platform, incl
 ## Testing Scope
 The primary scope of this project includes the following modules of the OpenCart platform:
 
-1. User Management: Registration, login, password recovery, user roles.
-2. Product Management: Adding, editing, and deleting products, categories, and inventory management.
-3. Cart and Checkout Process: Cart functionality, payment gateways, order processing, confirmation emails.
-4. Admin Panel: Managing store settings, user permissions, product categories, sales reports, and data analysis.
-5. Shipping and Tax Settings: Testing different shipping methods and tax rules.
-6. Promotions and Discounts: Coupon codes, special offers, and discount rule management.
-7. Reports: Sales, product views, and customer activity reports.
+1. <b>User Management</b>: Registration, login, password recovery, user roles.
+2. <b>Product Management</b>: Adding, editing, and deleting products, categories, and inventory management.
+3. <b>Cart and Checkout Process</b>: Cart functionality, payment gateways, order processing, confirmation emails.
+4. <b>Admin Panel</b>: Managing store settings, user permissions, product categories, sales reports, and data analysis.
+5. <b>Shipping and Tax Settings</b>: Testing different shipping methods and tax rules.
+6. <b>Promotions and Discounts</b>: Coupon codes, special offers, and discount rule management.
+7. <b>Reports</b>: Sales, product views, and customer activity reports.
 
 
 <br>
