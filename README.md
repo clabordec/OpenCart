@@ -59,10 +59,8 @@ JIRA: For issue tracking and defect management. Bugs and feature requests are lo
 ## Test Plan
 The testing strategy for this project follows a structured approach to ensure complete coverage of all critical functionalities of the OpenCart platform.
 
-<br>
 
-
-## Test Case Creation
+### Test Case Creation
 Test cases are written and managed in TestRail.
 Test cases cover all modules mentioned in the testing scope.
 Each test case includes:
@@ -76,7 +74,7 @@ Expected Result
 <br>
 
 
-## Test Types
+### Test Types
 The following types of testing will be performed:
 
 Functional Testing: Verifying that each feature works according to the requirements.
