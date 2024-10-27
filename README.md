@@ -61,14 +61,14 @@ The testing strategy for this project follows a structured approach to ensure co
 
 
 ### Test Case Creation
-Test cases are written and managed in TestRail.
-Test cases cover all modules mentioned in the testing scope.
-Each test case includes:
-Test ID
-Test Objective
-Preconditions
-Steps to Execute
-Expected Result
+- Test cases are written and managed in TestRail.
+- Test cases cover all modules mentioned in the testing scope.
+- Each test case includes:
+  - Test ID
+  - Test Objective
+  - Preconditions
+  - Steps to Execute
+  - Expected Result
 
 ### Test Types
 The following types of testing will be performed:
