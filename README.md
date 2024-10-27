@@ -70,10 +70,6 @@ Preconditions
 Steps to Execute
 Expected Result
 
-
-<br>
-
-
 ### Test Types
 The following types of testing will be performed:
 
