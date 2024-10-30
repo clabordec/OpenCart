@@ -73,10 +73,10 @@ The testing strategy for this project follows a structured approach to ensure co
 ### Test Types
 The following types of testing will be performed:
 
-Functional Testing: Verifying that each feature works according to the requirements.
-Regression Testing: Ensuring that existing functionalities work after code changes.
-Cross-Browser Testing: Testing across multiple browsers (e.g., Chrome, Firefox, Safari).
-Responsive Testing: Testing across different screen sizes and devices.
+1. <b>Functional Testing:</b> Verifying that each feature works according to the requirements.
+2. <b>Regression Testing:</b> Ensuring that existing functionalities work after code changes.
+3. <b>Cross-Browser Testing:</b> Testing across multiple browsers (e.g., Chrome, Firefox, Safari).
+4. <b>Responsive Testing:</b> Testing across different screen sizes and devices.
 
 
 <br>
