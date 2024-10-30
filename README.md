@@ -49,8 +49,8 @@ The primary scope of this project includes the following modules of the OpenCart
 ## Tools Used
 We use the following tools to facilitate our manual testing process:
 
-TestRail: For test case management and tracking. All test cases, test plans, and results are documented in TestRail.
-JIRA: For issue tracking and defect management. Bugs and feature requests are logged and tracked using JIRA.
+- <b>TestRail:</b> For test case management and tracking. All test cases, test plans, and results are documented in TestRail.
+- <b>JIRA:</b> For issue tracking and defect management. Bugs and feature requests are logged and tracked using JIRA.
 
 
 <br>
