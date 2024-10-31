@@ -1,5 +1,5 @@
 ## Test Scenarios
-<a href="https://trello.com/b/I4bojpTk/opencart-test-scenarios">Open Cart Test Scenarios</a>
+<a href="https://trello.com/b/I4bojpTk/opencart-test-scenarios" target="_blank">Open Cart Test Scenarios</a>
 
 Welcome to the <b>OpenCart Manual Testing</b> repository. This project focuses on the manual testing efforts for the OpenCart e-commerce platform using tools such as <b>TestRail</b> for test case management and <b>JIRA</b> for issue tracking. The objective is to ensure the stability, functionality, and usability of the OpenCart platform through well-documented test plans, detailed test cases, and organized bug reporting.
 
