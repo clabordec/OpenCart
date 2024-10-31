@@ -139,15 +139,3 @@ We welcome contributions from the community to improve our testing efforts! If y
 <br>
 
 Please ensure that all contributions align with our testing standards and guidelines.
-
-
-
-<br>
-
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-If you have any questions or need further information, feel free to reach out. Happy testing!
-
-You can further adjust the README to fit any additional specific information or workflows you have in the project.
