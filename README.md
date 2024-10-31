@@ -88,10 +88,10 @@ The following types of testing will be performed:
 2. Select the relevant Test Plan or Test Suite.
 3. Execute the test cases by following the steps outlined in each test case.
 4. Mark the result for each test case:
-  - Pass: The functionality behaves as expected.
-  - Fail: The functionality does not behave as expected.
-  - Blocked: Testing cannot proceed due to an external dependency.
-  - Skipped: Test case is not applicable for this cycle.
+    - Pass: The functionality behaves as expected.
+    - Fail: The functionality does not behave as expected.
+    - Blocked: Testing cannot proceed due to an external dependency.
+    - Skipped: Test case is not applicable for this cycle.
 
 ### Test Reports
 Upon completion of each testing cycle, a report is generated in TestRail summarizing:
