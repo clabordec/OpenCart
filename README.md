@@ -12,7 +12,6 @@ Welcome to the <b>OpenCart Manual Testing</b> repository. This project focuses o
 5. Test Execution
 6. Defect Management
 7. Contributing
-8. License
 
 
 <br> 
