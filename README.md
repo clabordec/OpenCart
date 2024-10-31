@@ -96,10 +96,10 @@ The following types of testing will be performed:
 ### Test Reports
 Upon completion of each testing cycle, a report is generated in TestRail summarizing:
 
-Total test cases executed
-Pass percentage
-Failures and blocked test cases
-Coverage status
+- Total test cases executed
+- Pass percentage
+- Failures and blocked test cases
+- Coverage status
 
 
 <br>
