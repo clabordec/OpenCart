@@ -119,9 +119,9 @@ Defects identified during testing are logged in JIRA with the following details:
 - <b>Attachments:</b> Screenshots, videos, logs if necessary.
 
 ### Issue Tracking
-Once a bug is logged in JIRA, it is assigned to the relevant developer.
-The bug's status is updated throughout its lifecycle (e.g., Open, In Progress, Resolved, Closed).
-All resolved bugs are verified during regression testing before being marked as Closed.
+- Once a bug is logged in <b>JIRA</b>, it is assigned to the relevant developer.
+- The bug's status is updated throughout its lifecycle (e.g., <b>Open</b>, <b>In Progress</b>, <b>Resolved</b>, <b>Closed</b>).
+- All resolved bugs are verified during regression testing before being marked as <b>Closed</b>.
 
 
 <br>
@@ -130,11 +130,11 @@ All resolved bugs are verified during regression testing before being marked as 
 ## Contributing
 We welcome contributions from the community to improve our testing efforts! If you'd like to contribute:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Write or update test cases in TestRail.
-Log any bugs found in JIRA.
-Submit a pull request with a detailed description of the changes.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Write or update test cases in TestRail.
+4. Log any bugs found in JIRA.
+5. Submit a pull request with a detailed description of the changes.
 Please ensure that all contributions align with our testing standards and guidelines.
 
 
