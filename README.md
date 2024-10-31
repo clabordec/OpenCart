@@ -131,8 +131,8 @@ We welcome contributions from the community to improve our testing efforts! If y
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
-3. Write or update test cases in TestRail.
-4. Log any bugs found in JIRA.
+3. Write or update test cases in <b>TestRail</b>.
+4. Log any bugs found in <b>JIRA</b>.
 5. Submit a pull request with a detailed description of the changes.
 
 <br>
