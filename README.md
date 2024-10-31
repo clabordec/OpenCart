@@ -63,7 +63,6 @@ The testing strategy for this project follows a structured approach to ensure co
 - Test cases are written and managed in TestRail.
 - Test cases cover all modules mentioned in the testing scope.
 - Each test case includes:
-  <br>
   - Test ID
   - Test Objective
   - Preconditions
