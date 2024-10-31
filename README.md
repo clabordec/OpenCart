@@ -110,13 +110,13 @@ Upon completion of each testing cycle, a report is generated in TestRail summari
 ### Reporting Bugs
 Defects identified during testing are logged in JIRA with the following details:
 
-Issue Type: Bug
-Priority: Blocker, Critical, Major, Minor, Trivial
-Description: Clear description of the issue.
-Steps to Reproduce: Detailed steps to recreate the issue.
-Expected Result: What should happen.
-Actual Result: What actually happened.
-Attachments: Screenshots, videos, logs if necessary.
+- <b>Issue Type:</b> Bug
+- <b>Priority:</b> Blocker, Critical, Major, Minor, Trivial
+- <b>Description:</b> Clear description of the issue.
+- <b>Steps to Reproduce:</b> Detailed steps to recreate the issue.
+- <b>Expected Result:</b> What should happen.
+- <b>Actual Result:</b> What actually happened.
+- <b>Attachments:</b> Screenshots, videos, logs if necessary.
 
 ### Issue Tracking
 Once a bug is logged in JIRA, it is assigned to the relevant developer.
