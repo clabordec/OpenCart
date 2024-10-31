@@ -1,5 +1,5 @@
 ## Test Scenarios
-[Open Cart Test Scenarios](https://trello.com/b/I4bojpTk/opencart-test-scenarios){:target="_blank"}
+[Open Cart Test Scenarios](https://trello.com/b/I4bojpTk/opencart-test-scenarios){:target="\_blank"}
 
 <br>
 
