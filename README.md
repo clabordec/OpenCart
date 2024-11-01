@@ -1,5 +1,5 @@
 ## Test Scenarios
-<a href="https://trello.com/b/I4bojpTk/opencart-test-scenarios" target="_blank">OpenCart Test Scenarios</a>
+[OpenCart Test Scenarios]("https://trello.com/b/I4bojpTk/opencart-test-scenarios")
 
 <br>
 
