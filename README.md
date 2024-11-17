@@ -4,7 +4,7 @@
 <br>
 
 ## Test Cases
-[OpenCart Test Cases]([https://labordec.testrail.io/index.php?/suites/overview/1](https://app.qase.io/project/OPENCART))
+[OpenCart Test Cases](https://app.qase.io/project/OPENCART)
 
 <br>
 
